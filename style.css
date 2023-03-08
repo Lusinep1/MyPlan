@@ -55,7 +55,7 @@ h1 {
     border: none;
     padding: 12px 24px;
     text-decoration: none;
-    font-size: 16px;
+    font-size: 1rem;
     border-radius: 4px;
     cursor: pointer;
     margin-bottom: 1rem;
@@ -80,5 +80,4 @@ h1 {
     .countdown-el span {
         font-size: .9rem;
     }
-
 }
